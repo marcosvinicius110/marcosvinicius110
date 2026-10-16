@@ -1,4 +1,3 @@
 ## Vinicius 00 
-![](https://tenor.com/byLTp.gif)
-🃏🎰
+<img src="https://tenor.com" width="300" />
 
